@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Users\\\\User\\\\Documents\\\\GitHub\\\\SDE-ocr-backend\")"
+    ]
+  }
+}
