@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(dir \"c:\\\\Users\\\\User\\\\Documents\\\\GitHub\\\\SDE-ocr-backend\")"
+      "Bash(dir \"c:\\\\Users\\\\User\\\\Documents\\\\GitHub\\\\SDE-ocr-backend\")",
+      "Bash(curl -s https://sde-ocr-backend-0bb5.onrender.com/)"
     ]
   }
 }
